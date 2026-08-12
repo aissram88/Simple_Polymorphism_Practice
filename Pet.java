@@ -1,4 +1,4 @@
-package Polumorphism;
+package Polymorphism;
 
 public interface Pet {
 		public void eat();
