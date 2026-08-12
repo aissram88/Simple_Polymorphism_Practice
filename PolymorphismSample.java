@@ -1,4 +1,4 @@
-package Polumorphism;
+package Polymorphism;
 
 import java.util.Scanner;
 
