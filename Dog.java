@@ -1,4 +1,4 @@
-package Polumorphism;
+package Polymorphism;
 
 public class Dog implements Pet {
 
