@@ -1,5 +1,5 @@
 # Java Polymorphism and Interfaces Demo
-This project is a complete Java application designed to demonstrate the core principles of Polymorphism and Interface-based Design
+This project is a complete Java application designed to demonstrate the principles of Polymorphism and Interface-based Design
 
 ## Overview
 **Interface** (`Pet`): Defines a blueprint with contract methods (`eat`, `playToy`) and demonstrates compile-time polymorphism through method overloading.
